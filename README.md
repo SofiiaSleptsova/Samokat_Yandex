@@ -122,6 +122,29 @@
 <details>
 <summary> Макеты 1-спринт </summary> 
 
+#### Main page 1280
+![web_page-0001](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/7537caaa-7728-4177-8523-705bf083b1f6)
+
+#### Form about customer
+![web_page-0002](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/f1d9d4e2-0673-4a12-8716-c0653dd4d4d5)
+
+#### Search order number
+![web_page-0003](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/e44fa48d-c65e-4563-b993-21ef1d447997)
+
+#### Form about customer (full)
+![web_page-0006](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/d76104d9-0e5d-457b-8b79-a490c0261b14)
+
+#### Form about rent
+![web_page-0010](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/07b72881-fe44-4c65-9542-a6ddec349ecb)
+
+#### Form about rent (full)
+![web_page-0011](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/1c015f11-7686-46d9-b1c2-18baf2912437)
+
+**Popap successful order**
+![web_page-0015](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/ab38c71c-458b-4683-ab1a-a3f2218a38f9)
+
+
+
 ![web_page-0031](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/4c8e2ad1-5c4d-4558-b4a7-0e91e62d6942)
 ![web_page-0030](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/b4005586-1b64-4402-bd36-e97ce15bb579)
 ![web_page-0029](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/e019f822-0471-4cea-8d59-910aa6668fe6)
@@ -138,21 +161,21 @@
 ![web_page-0018](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/ba2bc369-4e21-490f-93b3-6df8431ef75e)
 ![web_page-0017](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/e65d933e-5f4c-4518-8650-0547058e7416)
 ![web_page-0016](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/d40b07d3-5e31-4a75-86da-13f45aa6dfd8)
-![web_page-0015](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/ab38c71c-458b-4683-ab1a-a3f2218a38f9)
+
 ![web_page-0014](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/97da3ca7-1613-4086-b28f-522af95b46d8)
 ![web_page-0013](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/a114a3d5-c31f-4c79-bf0c-74dc85689d5d)
 ![web_page-0012](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/c0a85026-818e-4024-a473-7968d4c7297c)
-![web_page-0011](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/1c015f11-7686-46d9-b1c2-18baf2912437)
-![web_page-0010](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/07b72881-fe44-4c65-9542-a6ddec349ecb)
+
+
 ![web_page-0009](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/b51f5283-5e59-471b-8d21-aafee230b0bf)
 ![web_page-0008](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/54939334-9e8f-4cec-83cb-8f435a954fce)
 ![web_page-0007](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/2967f7dc-4de6-4a04-9d4c-96703a36d7ac)
-![web_page-0006](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/d76104d9-0e5d-457b-8b79-a490c0261b14)
+
 ![web_page-0005](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/af5668ef-461b-4ec4-89bf-5b1b2d6c4159)
 ![web_page-0004](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/1529968e-f52d-43b8-8aba-1e7605164ff8)
-![web_page-0003](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/e44fa48d-c65e-4563-b993-21ef1d447997)
-![web_page-0002](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/f1d9d4e2-0673-4a12-8716-c0653dd4d4d5)
-![web_page-0001](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/7537caaa-7728-4177-8523-705bf083b1f6)
+
+
+
 
 
 ***
