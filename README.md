@@ -368,6 +368,7 @@ Chrome | 1280x720, 1920x1080
 ***
 </details>
 
+<details>
 <summary> ID: 68-22 </summary> 
 
 ### Если поле "Адрес" оставить пустым, то поле не обрабатывается как некорректное значение на странице "Для кого самокат" [68-22](https://slepsovasonya.youtrack.cloud/issue/68-22/Esli-pole-Adres-ostavit-pustym-to-pole-ne-obrabatyvaetsya-kak-nekorrektnoe-znachenie-na-stranice-Dlya-kogo-samokat)
@@ -395,6 +396,7 @@ Chrome | 1280x720, 1920x1080
 ***
 </details>
 
+<details>
 <summary> ID: 68-23 </summary> 
 
 ### Если поле "Адрес" оставить пустым, то поле не обрабатывается как некорректное значение на странице "Для кого самокат" [68-23](https://slepsovasonya.youtrack.cloud/issue/68-23/V-pole-Telefon-vvod-10-simvolov-obrabatyvaetsya-nekorrektnoe-znachenie-na-stranice-Dlya-kogo-samokat)
@@ -422,6 +424,7 @@ Chrome | 1280x720, 1920x1080
 ***
 </details>
 
+<details>
 <summary> ID: 68-24 </summary> 
 
 ### В поле "Телефон" ввод 13 символов обрабатывается корректное значение на странице "Для кого самокат" [68-24](https://slepsovasonya.youtrack.cloud/issue/68-24/V-pole-Telefon-vvod-13-simvolov-obrabatyvaetsya-korrektnoe-znachenie-na-stranice-Dlya-kogo-samokat)
@@ -449,6 +452,7 @@ Chrome | 1280x720, 1920x1080
 ***
 </details>
 
+<details>
 <summary> ID: 68-25 </summary> 
 
 ### В поле "Телефон" ввод 13 символов обрабатывается корректное значение на странице "Для кого самокат" [68-25](https://slepsovasonya.youtrack.cloud/issue/68-25/V-pole-Kogda-privezti-samokat-vybor-segodnyashnej-i-proshedshej-daty-vozmozhen-na-stranice-Pro-arendu)
@@ -478,6 +482,7 @@ Chrome | 1280x720, 1920x1080
 ***
 </details>
 
+<details>
 <summary> ID: 68-26 </summary> 
 
 ### В поле "Телефон" ввод 13 символов обрабатывается корректное значение на странице "Для кого самокат" [68-26](https://slepsovasonya.youtrack.cloud/issue/68-26/V-pole-Kommentarij-otsutstvuyut-ogranicheniya-po-vvodu-na-stranice-Pro-arendu)
@@ -507,6 +512,7 @@ Chrome | 1280x720, 1920x1080
 ***
 </details>
 
+<details>
 <summary> ID: 68-26 </summary> 
 
 ### В поле "Телефон" ввод 13 символов обрабатывается корректное значение на странице "Для кого самокат" [68-26](https://slepsovasonya.youtrack.cloud/issue/68-26/V-pole-Kommentarij-otsutstvuyut-ogranicheniya-po-vvodu-na-stranice-Pro-arendu)
