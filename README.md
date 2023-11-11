@@ -248,3 +248,5 @@
 
 #### Задача 2 (планирование тестирования)
 
+![Задание 2_ данные валидации](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/637959f0-0ea6-4db5-8dad-7efe62b143f4)
+![Задание 2_ данные валидации-2](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/bfa08f3a-c62d-436f-8e55-2632c0f0a8f5)
