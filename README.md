@@ -546,7 +546,7 @@ Chrome | 1280x720, 1920x1080
 
 #### Задача 3 (пректирование тестовой документации)
 
-![Задание 2_ данные валидации-2](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/29959db3-9b2d-4541-898d-651a3c9cf76f)
+![Задание 2_ чек-лист](https://github.com/SofiiaSleptsova/Samokat_Yandex/assets/147629405/0a13c299-30b4-4c10-b380-729b5180b4fc)
 
 [Тестовая документация кликабельными ссылками](https://docs.google.com/spreadsheets/d/1DdCHQwM_p_E7t8jwsB2HTwx-l_NFjjovST2nbo782os/edit?usp=sharing)
 
